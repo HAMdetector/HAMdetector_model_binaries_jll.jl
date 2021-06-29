@@ -1,0 +1,20 @@
+[[HAMdetector_model_binaries]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "531e7231fd8ea258d868a47521a670138a329e87"
+libc = "glibc"
+os = "linux"
+
+    [[HAMdetector_model_binaries.download]]
+    sha256 = "b3bb934fb26863e8d345e2ff048989e400e2a24ef1b1f321a56b1c680d9698b8"
+    url = "https://github.com/HAMdetector/HAMdetector_model_binaries_jll.jl/releases/download/HAMdetector_model_binaries-v0.1.0+0/HAMdetector_model_binaries.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[HAMdetector_model_binaries]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f4322390293e3140a5022db2bca0963aba0fd01c"
+libc = "glibc"
+os = "linux"
+
+    [[HAMdetector_model_binaries.download]]
+    sha256 = "507ebd0078a2449f385a79dcfd3fadee4114baf8cce8aa5f5ed5064fbf02e6d1"
+    url = "https://github.com/HAMdetector/HAMdetector_model_binaries_jll.jl/releases/download/HAMdetector_model_binaries-v0.1.0+0/HAMdetector_model_binaries.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
